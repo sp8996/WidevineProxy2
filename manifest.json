@@ -6,6 +6,7 @@
     "activeTab",
     "tabs",
     "storage",
+    "scripting",
     "unlimitedStorage",
     "webRequest",
     "clipboardWrite"
